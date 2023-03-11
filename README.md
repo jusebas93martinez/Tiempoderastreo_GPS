@@ -14,4 +14,4 @@ El código muestra los resultados en una tabla en la interfaz gráfica de usuari
 Toca instalar todas las librerias indicadas en el archivo requirements.txt
     pip3 install -r requirements.txt
     
-![texto alternativo](https://flic.kr/p/2omrLJu)
+![texto alternativo](https://imgur.com/7GmWMSg)
